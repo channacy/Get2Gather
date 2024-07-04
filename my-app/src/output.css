@@ -574,6 +574,11 @@ video {
   justify-content: center;
 }
 
+.bg-indigo-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(99 102 241 / var(--tw-bg-opacity));
+}
+
 .px-\[21px\] {
   padding-left: 21px;
   padding-right: 21px;
